@@ -1,8 +1,8 @@
 SubstitutionBot
 =============
 
-A Twitter bot to implement [xkcd 1288](http://xkcd.com/1288/) and
-[xkcd 1322](https://xkcd.com/1322/)
+A Twitter bot to implement [xkcd 1288](http://xkcd.com/1288/),
+[xkcd 1322](https://xkcd.com/1322/) and [xkcd 1418](http://xkcd.com/1418/)
 
 ## Requires ##
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) for HTML parsing
